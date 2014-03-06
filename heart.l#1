@@ -136,9 +136,6 @@
 </gates>
 <devices>
 <device name="" package="HEART">
-<connects>
-<connect gate="G$1" pin="TP" pad="P$1"/>
-</connects>
 <technologies>
 <technology name=""/>
 </technologies>
